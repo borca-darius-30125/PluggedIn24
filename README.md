@@ -1,4 +1,4 @@
-# pluggedin24
+# PluggedIn24
 
 A new revolutionar education mobile app.
 
